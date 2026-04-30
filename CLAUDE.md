@@ -1,4 +1,4 @@
-# Split Publish Skill (Claude)
+# Git Split Publish Skill (Claude)
 
 When the user asks to split commits and publish, follow this procedure strictly.
 

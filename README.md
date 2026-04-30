@@ -1,6 +1,6 @@
-# split-publish-skill
+# git-split-publish
 
-Portable `split-publish` skill package for Codex, Claude, and Gemini.
+Portable `git-split-publish` skill package for Codex, Claude, and Gemini.
 
 ## Files
 
@@ -13,7 +13,7 @@ Portable `split-publish` skill package for Codex, Claude, and Gemini.
 
 Install from this repository using your Codex skill installer flow, or clone and place under:
 
-- `~/.codex/skills/split-publish`
+- `~/.codex/skills/git-split-publish`
 
 ## Claude Usage
 
@@ -32,8 +32,8 @@ When handling split-commit publish tasks, follow:
 Add a reference to this repository's `GEMINI.md` in your global `~/.gemini/gemini.md` file:
 
 ```md
-# Split Publish Skill
---- Context from: /absolute/path/to/split-publish-skill/GEMINI.md ---
+# Git Split Publish Skill
+--- Context from: /absolute/path/to/git-split-publish/GEMINI.md ---
 ```
 
 ### Local Installation (Specific Project)

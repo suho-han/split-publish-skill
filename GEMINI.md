@@ -1,4 +1,4 @@
-# Split Publish Skill (Gemini)
+# Git Split Publish Skill (Gemini)
 
 When the user asks to split commits and publish, follow this procedure strictly. These instructions are foundational mandates.
 
