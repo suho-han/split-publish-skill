@@ -1,6 +1,15 @@
 ---
 name: split-publish
 description: Safely inspect a mixed git worktree, split pending changes into task-based commits, push each commit in order, and optionally open a draft PR when explicitly requested.
+version: 0.1.0
+author: suhohan
+homepage: https://github.com/suho-han/split-publish-skill
+tags:
+  - git
+  - workflow
+  - productivity
+  - automation
+  - devtools
 ---
 
 # Split Publish
